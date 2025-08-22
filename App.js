@@ -8,7 +8,7 @@ const App = () => {
 
     return (
         <div className="App">
-            <h1>Event Booking System</h1>
+            // <h1>Event Booking System</h1>
             {/* <EventList events={events} /> */}
             <ToDoList/>
         </div>
